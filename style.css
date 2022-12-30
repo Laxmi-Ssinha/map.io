@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Playfair+Display&family=Poppins&display=swap");
+
+body {
+    background-image: url("back-img.jpg");
+  background-color: black;
+  color: wheat;
+  /* margin: 20px; */
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 1.2px;
+  font-weight: 500;
+  align-items: center;
+}
+
+button {
+  background-color: whitesmoke;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+#page2 {
+  margin-left: 2px;
+}
+
+input {
+  width: 50%;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.postalData {
+ 
+}
+
+.box {
+  border: 1px solid white;
+  margin: 20px 0;
+  padding: 20px;
+  width: 25%;
+}
+.container{
+    align-items: center;
+}
+#noOfPincode{
+    align-items: center;
+
+}
